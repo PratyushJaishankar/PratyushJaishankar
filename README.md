@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there I'm Pratyush Jaishankar
+- 🔭 I’m currently working on App Dev.
+- ⚡ I’m interested in Competetive Coding and Development.
+- 🌱 I’m currently learning Competitive Coding. 
+- 📫 You can reach me by mail: pratjai97@gmail.com
 <!--
 **PratyushJaishankar/PratyushJaishankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
