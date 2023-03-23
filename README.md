@@ -1,5 +1,5 @@
 ### Hi there I'm Pratyush Jaishankar
-- 🔭 I’m currently working on App Dev.
+- 🔭 I’m currently working on Web Dev.
 - ⚡ I’m interested in Competetive Coding and Development.
 - 🌱 I’m currently learning Competitive Coding. 
 - 📫 You can reach me by mail: pratjai97@gmail.com
