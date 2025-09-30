@@ -86,10 +86,10 @@ Welcome to my digital playground—explore my projects, stats, and favorite tool
 
 <p align="center">
   <a href="https://github.com/PratyushJaishankar/ASC_Playwright">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushJaishankar&repo=ASC_Playwright&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushJaishankar&repo=ASC_Playwright&theme=vue&cache_seconds=1800" />
   </a>
   <a href="https://github.com/PratyushJaishankar/ASC_Cypress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushJaishankar&repo=ASC_Cypress&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushJaishankar&repo=ASC_Cypress&theme=vue&cache_seconds=1800" />
   </a>
 </p>
 
